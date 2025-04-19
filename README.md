@@ -2,4 +2,4 @@
 mis practicas de git
 
 
-##sub titulos
+##Practicas de git
