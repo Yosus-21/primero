@@ -2,4 +2,4 @@
 mis practicas de git
 
 
-##Practicas de git
+## Practicas de git
