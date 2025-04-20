@@ -1,4 +1,4 @@
-nombre= "soy YOSUS2022"
+nombre= "SOY YOSUS2022"
 apellido= "contreras"
 
 saludo = "hola"+nombre+" "+ apellido+ "como estas?"
