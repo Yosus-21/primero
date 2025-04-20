@@ -1,4 +1,4 @@
-nombre= "soy flip flop"
+nombre= "SOY manuel23"
 apellido= "contreras"
 
 saludo = "hola"+nombre+" "+ apellido+ "como estas?"
